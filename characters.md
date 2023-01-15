@@ -17,3 +17,9 @@ Give a malus to the roll if a skill is uncommon to the profession.
 2: professional
 4: expert
 5: world best
+
+## Characters creation
+
+5 attributes at 2, one at 3.
+A profession at 2, a profession at 0.
+Equipment corresponding to the main profession.
